@@ -22,4 +22,5 @@ int main() {
         }
     }
     cout << specialProblems << endl;
+    return 0;
 }
